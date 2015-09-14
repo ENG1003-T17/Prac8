@@ -4,6 +4,12 @@ RONALD FEDORA
 
 EDWIN TONG
 
+Brief introduction
+ 
+Role in project: Editor, Quality Surveyor, Co-Programmer
+ 
+Preferred branch of engineering: Field of Mechatronics
+
 IAN WONG
 
 TIANG MIN JET
