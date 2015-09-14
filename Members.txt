@@ -25,3 +25,7 @@ Role in project: Co-Programmer, Coordinator
 Preferred branch of engineering: Field of Electrical and Computer Systems
 
 TIANG MIN JET
+
+Role in project: Chief Programmer
+ 
+Preferred branch of engineering: Field of Chemical Engineering
